@@ -1,2 +1,3 @@
 # champion-trail
-My First github Repository
+My First github Repository.
+Author - Sanyam Sharma
